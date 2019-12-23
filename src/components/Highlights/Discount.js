@@ -39,7 +39,12 @@ class Discount extends Component {
                 audio equipment. Before recorded music, concerts provided the
                 main opportunity to hear musicians pla
               </p>
-              <MyButton />
+              <MyButton
+                text="Purchase Tickets"
+                bck="#ffa800"
+                color="#ffffff"
+                link="http://google.com"
+              />
             </div>
           </Slide>
         </div>
